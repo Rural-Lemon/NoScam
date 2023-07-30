@@ -1,5 +1,5 @@
 import requests
-
+ 
 def save_scam_website(url, description):
     with open('scam_websites.txt', 'a') as file:
         file.write(f"{url}\t{description}\n")
