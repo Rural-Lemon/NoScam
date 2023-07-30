@@ -1,2 +1,3 @@
 
 https://api.github.com/repos/Rural-Lemon/NoScam/contents/scam_websites.txt
+https://api.github.com/repos/Rural-Lemon/NoScam/contents/scam_websites.txt
